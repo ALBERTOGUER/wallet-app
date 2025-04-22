@@ -1,0 +1,24 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "type": "Payment",
+            "amount": 200,
+            "name": "test",
+            "description": "furniture purchase",
+            "date": "2025-03-19",
+            "pending": true,
+            "athorizedUser": null
+        },
+        {
+            "id": 2,
+            "type": "Credit",
+            "amount": 50,
+            "name": "Amazon",
+            "description": "online shopping",
+            "date": "2025-02-15",
+            "pending": false,
+            "athorizedUser": "Alberto"
+        }
+    ]
+}
